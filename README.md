@@ -8,8 +8,10 @@
 - 👯 I’m looking to collaborate on any interesting proyect in Android, using Java or Kotlin
 - 💬 Ask me about any problem you need to solve using code. If I do not know the answer, I will look into it.
 
-https://www.linkedin.com/in/joseluisojedafernandez/?Label=<LinkedIn>&message=<My Linkedin Profile>&color=<Blue>
+https://img.shields.io/badge/<Linkedin>-<https://www.linkedin.com/in/joseluisojedafernandez/>-<BLUE>
+
+https://img.shields.io/badge/<Email me>-<mailto:joseluisojedafdez@gmail.com>-<GREEN>
   
-mailto:joseluisojedafdez@gmail.com?Label=<Email>&message=<Email me>&color=<Green>
+
 
 
