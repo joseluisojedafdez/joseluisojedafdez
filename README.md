@@ -10,7 +10,7 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:joseluisojedafdez@gmail.com)
 
-[![Linkedin Profile !](https://img.shields.io/badge/Linkedinprofile-1abc9c.svg)](https://www.linkedin.com/in/joseluisojedafernandez/)
+[![Linkedin Profile !](https://img.shields.io/badge/Linkedin-profile-1abc9c.svg)](https://www.linkedin.com/in/joseluisojedafernandez/)
 
 
   
