@@ -8,9 +8,9 @@
 - 👯 I’m looking to collaborate on any interesting proyect in Android, using Java or Kotlin
 - 💬 Ask me about any problem you need to solve using code. If I do not know the answer, I will look into it.
 
-https://img.shields.io/badge/<Linkedin>-<https://www.linkedin.com/in/joseluisojedafernandez/>-<BLUE>
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/joseluisojedafdez/ama)
 
-https://img.shields.io/badge/<Email me>-<mailto:joseluisojedafdez@gmail.com>-<GREEN>
+
   
 
 
